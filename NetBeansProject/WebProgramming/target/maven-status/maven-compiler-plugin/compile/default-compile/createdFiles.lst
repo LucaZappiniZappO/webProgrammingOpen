@@ -1,0 +1,4 @@
+Dao\GetById.class
+Dao\DefaultDao.class
+Dao\IdOwner.class
+Dao\entities\IdOwnerComparable.class
